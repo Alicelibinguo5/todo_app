@@ -1,17 +1,8 @@
-clean
- the programbuy
 fix my bike
-write
-clean
-clean the bag
 play guitar
 Get the car
 clean the house
-
-my newest todo is addedclean house
 take a bath
 cut the hair
 master python
 master java
-master c
-order
