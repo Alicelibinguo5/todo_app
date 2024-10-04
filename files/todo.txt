@@ -1,11 +1,17 @@
 clean
-buy
+ the programbuy
 fix my bike
 write
 clean
 clean the bag
-play guitarGet the carclean the house
+play guitar
+Get the car
+clean the house
 
-clean house
+my newest todo is addedclean house
 take a bath
 cut the hair
+master python
+master java
+master c
+order
